@@ -1,7 +1,5 @@
 # Project IDX + Svelte + AWS
 
-# Project IDX + Svelte + AWS
-
 This project demonstrates how to create a Svelte webapp using Project IDX IDE and deploy it as a static website using AWS S3.
 
 ## Prerequisites
